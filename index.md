@@ -1,6 +1,6 @@
 ---
 layout: default
 ---
-# IOS Apps
+<link rel="stylesheet" href="style.css">
 
-## [Scan](https://k1njs.com/scan)
+# [Scan](https://k1njs.com/scan)
