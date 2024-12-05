@@ -36,4 +36,4 @@ Ready to transform the way you handle documents? Download Job Scanner now and ex
 
 ---
 
-[Privacy Policy](./policy.md) | [Support](./support.md)
+[Privacy Policy](./policy.md) - [Support](./support.md)
