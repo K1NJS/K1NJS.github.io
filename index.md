@@ -3,5 +3,5 @@ layout: default
 title: Home
 ---
 - [Scan](./Scan/)
-- [Measurements](./Measurements/)
+- [Measurements](https://testflight.apple.com/join/11BBAHK8)
 
