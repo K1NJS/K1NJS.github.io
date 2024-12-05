@@ -24,15 +24,10 @@ Job Scanner is your ultimate tool for scanning, managing, and organizing documen
 
 ---
 
-## Preview
-![ScanApp Screenshot](./assets/images/preview.png)
-
----
-
 ## Get Started Today!
 Ready to transform the way you handle documents? Download Job Scanner now and experience the ease of scanning.
 
-- [Download for iOS](#)
+- [Download for iOS](https://apps.apple.com/us/app/county-truss-job-scanner/id6737247615)
 
 ---
 
