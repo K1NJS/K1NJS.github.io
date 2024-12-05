@@ -17,7 +17,7 @@ Job Scanner is your ultimate tool for scanning, managing, and organizing documen
 
 ---
 
-## Why Choose ScanApp?
+## Why Choose Job Scanner?
 - **Reliability:** Designed to handle your scanning needs without hiccups.
 - **Privacy Focus:** No data collection. Your documents stay on your device.
 - **Support:** Get help whenever you need it with our dedicated support team.
@@ -30,10 +30,10 @@ Job Scanner is your ultimate tool for scanning, managing, and organizing documen
 ---
 
 ## Get Started Today!
-Ready to transform the way you handle documents? Download ScanApp now and experience the ease of scanning.
+Ready to transform the way you handle documents? Download Job Scanner now and experience the ease of scanning.
 
 - [Download for iOS](#)
 
 ---
 
-&copy; 2024 K1NJS. All rights reserved. | [Privacy Policy](./policy.md) | [Support](./support.md)
+[Privacy Policy](./policy.md) | [Support](./support.md)
