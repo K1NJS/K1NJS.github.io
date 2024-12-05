@@ -31,6 +31,4 @@ If you have any questions about this Privacy Policy, please contact us at:
 
 [Go to Support Page](./support.md)
 
----
 
-&copy; 2024 County Truss - Measurements. All rights reserved.
