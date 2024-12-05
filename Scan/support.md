@@ -30,4 +30,4 @@ If you need further assistance, feel free to reach out to us anytime!
 
 ---
 
-&copy; 2024 K1NJS. All rights reserved. | [Privacy Policy](./policy.md)
+ [Privacy Policy](./policy.md)
