@@ -25,7 +25,7 @@ Job Scanner is your ultimate tool for scanning, managing, and organizing documen
 ---
 
 ## Preview
-![ScanApp Screenshot](./assets/images/scanapp-preview.png)
+![ScanApp Screenshot](./assets/images/preview.png)
 
 ---
 
