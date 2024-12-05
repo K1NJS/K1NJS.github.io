@@ -2,6 +2,6 @@
 layout: default
 title: Home
 ---
-- [Scan](./Scan/index.md)
-- [Measurements](./Measurements/index.md)
+- [Scan](./Scan/)
+- [Measurements](./Measurements/)
 
