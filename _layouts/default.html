@@ -6,17 +6,12 @@
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="/assets/css/styles.css">
     <style>
-        /* Base Styles */
+        /* Dark Mode Colors */
         :root {
-            --bg-color: #ffffff;
-            --text-color: #000000;
-            --link-color: #007acc;
-        }
-
-        [data-theme="dark"] {
             --bg-color: #121212;
-            --text-color: #ffffff;
-            --link-color: #4e9fff;
+            --text-color: #e0e0e0;
+            --link-color: #e0e0e0;
+            --border-color: #333;
         }
 
         body {
@@ -38,9 +33,8 @@
 
         header {
             padding: 20px;
-            background-color: var(--link-color);
-            color: #fff;
             text-align: center;
+            border-bottom: 1px solid var(--border-color);
         }
 
         main {
@@ -52,50 +46,21 @@
         footer {
             text-align: center;
             padding: 20px;
-            background-color: var(--link-color);
-            color: #fff;
-        }
-
-        /* Dark Mode Toggle */
-        .theme-toggle {
-            position: fixed;
-            top: 20px;
-            right: 20px;
-            background: none;
-            border: none;
-            font-size: 1rem;
-            cursor: pointer;
-            color: var(--text-color);
+            border-top: 1px solid var(--border-color);
         }
     </style>
 </head>
 <body>
     <header>
         <h1>
-            <a href="/" style="color: inherit;">{{ site.title }}</a>
+            <a href="/" style="color: inherit; text-decoration: none;">{{ site.title }}</a>
         </h1>
     </header>
-    <button class="theme-toggle" id="theme-toggle">🌙</button>
     <main>
         {{ content }}
     </main>
     <footer>
         <p>&copy; 2024 K1NJS. All rights reserved.</p>
     </footer>
-    <script>
-        // Dark Mode Toggle Script
-        const toggleButton = document.getElementById('theme-toggle');
-        const currentTheme = localStorage.getItem('theme') || 'light';
-
-        document.documentElement.setAttribute('data-theme', currentTheme);
-        toggleButton.textContent = currentTheme === 'dark' ? '☀️' : '🌙';
-
-        toggleButton.addEventListener('click', () => {
-            const newTheme = document.documentElement.getAttribute('data-theme') === 'light' ? 'dark' : 'light';
-            document.documentElement.setAttribute('data-theme', newTheme);
-            localStorage.setItem('theme', newTheme);
-            toggleButton.textContent = newTheme === 'dark' ? '☀️' : '🌙';
-        });
-    </script>
 </body>
 </html>
