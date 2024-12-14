@@ -10,7 +10,8 @@
         :root {
             --bg-color: #121212;
             --text-color: #e0e0e0;
-            --link-color: #e0e0e0;
+            --link-color: #1e90ff; /* Bright blue for links */
+            --link-hover-color: #63b3ff; /* Lighter blue for hover effect */
             --border-color: #333;
         }
 
@@ -28,6 +29,7 @@
         }
 
         a:hover {
+            color: var(--link-hover-color);
             text-decoration: underline;
         }
 
