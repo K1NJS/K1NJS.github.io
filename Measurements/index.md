@@ -37,7 +37,7 @@ Truss Measurements is a specialized tool designed for truss manufacturing profes
 ## Get Started Today!
 Transform your truss measurement workflow with our specialized tools.
 
-- [Download for iOS (TestFlight)](https://testflight.apple.com/join/11BBAHK8)
+- [Download for iOS ](https://apps.apple.com/us/app/county-truss-measurements/id6739022657)
 
 ---
 
