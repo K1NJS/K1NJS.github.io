@@ -3,13 +3,8 @@ layout: default
 title: Home
 ---
 
-# Welcome to K1NJS
 
-## Ham Radio Tools & Resources
-
-Welcome to my collection of amateur radio tools and resources. This site provides useful utilities for the ham radio community.
-
-### Available Tools
+## Available IOS Apps
 
 #### 📡 [Scan](./Scan/)
 Scanning utility for radio frequencies and band monitoring.
