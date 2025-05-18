@@ -7,10 +7,8 @@ title: Home
 ## Available IOS Apps
 
 #### 📡 [Scan](./Scan/)
-Scanning utility for radio frequencies and band monitoring.
 
 #### 📊 [Measurements (Beta)](./Measurements/)
-Tools for taking and analyzing radio measurements.
 
 ---
 
