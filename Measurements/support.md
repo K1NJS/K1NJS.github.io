@@ -23,7 +23,7 @@ If you encounter a bug, please send us an email at [support@k1njs.com](mailto:su
 ### The app is crashing or not responding:
 
 - Make sure your app is updated to the latest version.
-- Try restarting your device and reopening the app.
+- Try deleting the app off your device and reinstalling the app.
 - If the problem persists, please contact us at [support@k1njs.com](mailto:support@k1njs.com) with details of the issue.
 
 If you need further assistance, feel free to reach out to us anytime!
