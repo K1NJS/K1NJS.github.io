@@ -1,12 +1,12 @@
 ---
-title: Support - AI Bill Reminders
+title: Support - Ai Bill Reminder
 layout: default
 ---
 
 # Support
 
 ## Contact Us
-If you need help or have any questions about AI Bill Reminders, feel free to reach out to us. We're here to assist you.
+If you need help or have any questions about Ai Bill Reminder, feel free to reach out to us. We're here to assist you.
 
 **Email:** [support@k1njs.com](mailto:support@k1njs.com)
 
