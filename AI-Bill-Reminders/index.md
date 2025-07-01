@@ -18,7 +18,6 @@ Never miss a bill payment again! AI Bill Reminders is your intelligent companion
 ---
 
 ## Why Choose AI Bill Reminders?
-- **Intelligent:** Advanced AI that adapts to your bill payment habits
 - **Privacy First:** No data collection - your information stays private
 - **User-Friendly:** Simple, clean interface that's easy to navigate
 - **Reliable:** Never miss a payment with smart reminder technology

@@ -24,7 +24,6 @@ If you encounter a bug, please send us an email at [support@k1njs.com](mailto:su
 1. Open the app and tap the "+" button to add a new bill
 2. Enter your bill details and due date
 3. Set your preferred reminder timing
-4. The AI will learn your patterns and optimize future reminders
 
 ### Can I customize reminder notifications?
 Yes! You can customize reminder timing, notification style, and frequency in the app settings.

@@ -5,7 +5,7 @@ layout: default
 
 # Privacy Policy
 
-**Last updated:** December 2024
+**Last updated:** June 2025
 
 ## 1. No Data Collection
 AI Bill Reminders does not collect or transmit any personal information or data. We do not collect data such as:
