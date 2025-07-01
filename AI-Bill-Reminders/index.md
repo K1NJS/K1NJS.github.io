@@ -1,9 +1,9 @@
 ---
-title: AI Bill Reminders
+title: Ai Bill Reminder
 layout: default
 ---
 
-# AI Bill Reminders
+# Ai Bill Reminder
 
 Never miss a bill payment again! AI Bill Reminders is your intelligent companion for managing bills and payments with smart reminders and easy organization.
 
@@ -25,7 +25,7 @@ Never miss a bill payment again! AI Bill Reminders is your intelligent companion
 ---
 
 ## Get Started Today!
-Download AI Bill Reminders and take control of your bill payments with intelligent reminders.
+Download Ai Bill Reminder and take control of your bill payments with intelligent reminders.
 
 - [Download for iOS](https://apps.apple.com/us/app/ai-bill-reminders/id1234567890)
 
